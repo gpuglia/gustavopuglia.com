@@ -1,6 +1,6 @@
 body {
 	font-family: sans-serif;
-	color: #FAF3BC;
+	color: #FFFFFF;
 	background: #420600 url('img/background.png') repeat;
 }
 
@@ -15,7 +15,11 @@ h1 {
 
 h2 {
 	font-size: 1.5em;
-	color: #B4C34F;
+	/*color: #B4C34F;*/
+}
+
+p {
+	color: #777674;
 }
 
 .btn {
@@ -43,7 +47,7 @@ ul.nav li {
 }
 
 ul.nav li a {
-	color: #FAF3BC;
+	color: #FFFFFF;
 }
 
 #intro {
@@ -51,12 +55,7 @@ ul.nav li a {
 }
 
 #quirky-thing img {
-	border: 8px solid #FAF3BC;
 	margin: 0 0 20px 0;
-}
-
-#like-thing img {
-	border: 8px solid #FAF3BC;
 }
 
 #copyright {
