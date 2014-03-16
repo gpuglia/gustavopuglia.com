@@ -33,7 +33,7 @@ h2 {
 }
 
 ul.nav {
-	margin: 120px 0 0 0;
+	margin: 120px 0 75px 0;
 	list-style: none;
 	float: right;
 }
@@ -48,15 +48,15 @@ ul.nav li a {
 }
 
 #intro {
-	margin: 50px 0 75px 0 ;
+	margin: 111px 20px 111px 0 ;
 }
 
-#new-cupcakes img {
+#quirky-thing img {
 	border: 8px solid #FAF3BC;
 	margin: 0 0 20px 0;
 }
 
-#featured-cupcake img {
+#like-thing img {
 	border: 8px solid #FAF3BC;
 }
 
